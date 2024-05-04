@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jerry James</h1>
 <h3 align="center">Venturing into OpenCV, refining face detection, and exploring ML and AI.</h3>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/jerryjames2001/count.svg?"  />
+</div>
 
+###
 <img align="right" alt="coding_vibe" width="400" src="./images/coding_vibe.gif">
 <br>
 
@@ -38,7 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
 </div>
 
-###
 <br><br>
 <div align="center">
 <img height="120" alt="readme stats" src="https://github-readme-stats.vercel.app/api?username=jerryjames2001&amp;theme=react&amp;rank_icon=github&amp;show_icons=true&amp;border_radius=20"/>
