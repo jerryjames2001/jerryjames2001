@@ -48,3 +48,5 @@
 <img height="120" alt="top-lang" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerryjames2001&show_icons=true&locale=en&layout=compact&amp;theme=react&amp;border_radius=20"/>
 <img height="120" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jerryjames2001&amp;theme=react&amp;border_radius=20"/>
 </div>
+<!-- <p align="center">My Games</p>
+ <img src="https://raw.githubusercontent.com/jerryjames2001/jerryjames2001/output/snake.svg" alt="Snake animation" /> -->
