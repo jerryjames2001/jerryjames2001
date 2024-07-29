@@ -6,8 +6,6 @@
 </h1>
 <h3 align="center">Venturing into OpenCV, refining face detection, and exploring ML and AI.</h3>
 <div align="center">
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jerryjames2001.jerryjames2001" />
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
   <img src="https://profile-counter.glitch.me/jerryjames2001/count.svg?"  />
 </div>
 
@@ -25,7 +23,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </p>
-<br><br>
+<br><br><br>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
