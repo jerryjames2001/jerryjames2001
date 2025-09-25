@@ -39,9 +39,13 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,php" /><br>
-    <img src="https://skillicons.dev/icons?i=python,opencv,matlab,c,java" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,bash,linux,windows,azure">
 
+![Skills](https://skills.syvixor.com/api/icons?perline=15&i=html,css3,javascript,reactjs,nodejs,expressjs,mongodb,mysql,php)
+
+
+  <img src="https://skillicons.dev/icons?i=python,opencv,matlab,c,java" />
+
+![Skills](https://skills.syvixor.com/api/icons?perline=15&i=visualstudiocode,lovable,figma,bash,kalilinux,windows,azure,github)
     
 ![Skills](https://skills.syvixor.com/api/icons?perline=1&i=lovable)
     <br>
