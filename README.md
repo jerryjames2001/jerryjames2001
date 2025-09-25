@@ -36,19 +36,16 @@
 ---
 
 <h2 align="center">⚒️ Tech Stack & Tools ⚒️</h2>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,php" /><br>
 
-![Skills](https://skills.syvixor.com/api/icons?perline=15&i=html,css3,javascript,reactjs,nodejs,expressjs,mongodb,mysql,php)
-
-
-  <img src="https://skillicons.dev/icons?i=python,opencv,matlab,c,java" />
+![Skills](https://skills.syvixor.com/api/icons?perline=15&i=html,css3,javascript,reactjs,tailwind,nodejs,expressjs,mongodb,mysql,php)
 
 ![Skills](https://skills.syvixor.com/api/icons?perline=15&i=visualstudiocode,lovable,figma,bash,kalilinux,windows,azure,github)
     
-![Skills](https://skills.syvixor.com/api/icons?perline=1&i=lovable)
-    <br>
+![Skills](https://skills.syvixor.com/api/icons?perline=15&i=chatgpt,githubcopilot,claudeai,googlegemini,perplexity,ollama)
+
+![Skills](https://skills.syvixor.com/api/icons?perline=15&i=python,opencv,matlab,matplotlib,java)
+
 </div>
 
 ---
