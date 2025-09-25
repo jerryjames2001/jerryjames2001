@@ -52,7 +52,11 @@
 <h2 align="center">🐍 My Contributions 🐍</h2>
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jerryjames2001/jerryjames2001/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jerryjames2001/jerryjames2001/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jerryjames2001/jerryjames2001/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/jerryjames2001/jerryjames2001/output/github-contribution-grid-snake.svg" />
+  </picture>
   <br/><br/>
 </div>
 
@@ -60,9 +64,9 @@
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <div align="center">
-<img height="120" alt="readme stats" src="https://github-readme-stats.vercel.app/api?username=jerryjames2001&amp;theme=react&amp;rank_icon=github&amp;show_icons=true&amp;border_radius=20"/>
-<img height="120" alt="top-lang" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerryjames2001&show_icons=true&locale=en&layout=compact&amp;theme=react&amp;border_radius=20"/>
-<img height="120" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jerryjames2001&amp;theme=react&amp;border_radius=20"/>
+<img height="120" alt="readme stats" src="https://github-readme-stats.vercel.app/api?username=jerryjames2001&theme=react&rank_icon=github&show_icons=true&border_radius=20"/>
+<img height="120" alt="top-lang" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerryjames2001&show_icons=true&locale=en&layout=compact&theme=react&border_radius=20"/>
+<img height="120" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jerryjames2001&theme=react&border_radius=20"/>
 </div>
 
 ---
