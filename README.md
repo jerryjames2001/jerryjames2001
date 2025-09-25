@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jerryjames2001.jerryjames2001" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jerryjames2001.jerryjames2001&format=true" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jerry+James;" />
@@ -6,18 +6,15 @@
 
 <h3 align="center">Innovator | Cybersecurity Enthusiast | AI & ML Explorer | Full-Stack Developer</h3>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/jerryjames2001/count.svg?" />
-</div>
-
 ###
+
 <img align="right" alt="coding_vibe" width="400" src="./images/coding_vibe.gif">
 <br>
 
 - 🚀 **Current Projects:**
+
   - **EduVision** – A handwritten note-to-text converter using OCR, NLP & MERN
   - **College Chatbot** – A web scraper-powered AI chatbot for college websites
-  - **Multi-Layer Firewall** – Personal cybersecurity project inspired by hacker movies
 
 - 🔭 I’m currently **building AI-driven solutions** in OCR, cybersecurity, and web scraping.
 
@@ -44,6 +41,9 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,php" /><br>
     <img src="https://skillicons.dev/icons?i=python,opencv,matlab,c,java" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,bash,linux,windows,azure">
+
+    
+![Skills](https://skills.syvixor.com/api/icons?perline=1&i=lovable)
     <br>
 </div>
 
