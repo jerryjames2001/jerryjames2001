@@ -22,7 +22,7 @@
 
 **Turning ideas into functional applications.**
 
-I am a dedicated Full-Stack Developer with a strong focus on the **MERN Stack** and **AI Integration**. I enjoy taking a concept—whether it's a student project or a business idea—and turning it into a working software solution. I have practical experience building web applications from scratch, handling everything from database design to frontend UI.
+I am a dedicated Full-Stack Developer with a strong focus on the **MERN Stack** and **AI Integration**. I enjoy taking a concept whether it's a student project or a business idea and turning it into a working software solution. I have practical experience building web applications from scratch, handling everything from database design to frontend UI.
 
 - 🔭 **Focus:** Building "Version 1.0" (MVPs) and integrating AI models into web apps.
 - 🤝 **Approach:** I write clean, understandable code focused on functionality.
