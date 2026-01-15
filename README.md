@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/jerry-james-/">
     <img src="https://img.shields.io/badge/Hire_Me-Available_for_Work-success?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://jerry-james.me">
+  <a href="https://jerry-james.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-View_Live_Demos-blue?style=for-the-badge&logo=firefox" />
   </a>
 </div>
